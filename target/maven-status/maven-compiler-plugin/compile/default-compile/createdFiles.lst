@@ -1,0 +1,15 @@
+org\practice\service\PersonService.class
+com\mindtree\controller\ArticleController.class
+com\mindtree\service\serviceimpl\ArticleServiceImpl.class
+com\mindtree\dao\PersonDAO.class
+com\mindtree\controller\AdminController.class
+com\mindtree\service\serviceimpl\PersonServiceImpl.class
+com\mindtree\model\Content.class
+com\mindtree\dao\ArticleDao.class
+com\mindtree\model\Comment.class
+com\mindtree\dao\daoimpl\ArticleDaoImpl.class
+com\mindtree\dao\daoimpl\PersonDAOImpl.class
+com\mindtree\model\Article.class
+org\practice\service\ArticleSevice.class
+com\mindtree\model\Person.class
+com\mindtree\controller\PersonController.class
